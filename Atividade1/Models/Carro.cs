@@ -8,7 +8,6 @@ namespace Atividade1.Models
     public class Carro
     {
         private string _modelo;
-        private string _versao;
         private int _ano;
         public string Modelo 
         { 

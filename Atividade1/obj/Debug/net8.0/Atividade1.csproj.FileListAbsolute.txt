@@ -12,3 +12,4 @@ C:\Users\Gustavo\Desktop\ESCOLA\Atividades-Csharp-parte2\Atividade1\obj\Debug\ne
 C:\Users\Gustavo\Desktop\ESCOLA\Atividades-Csharp-parte2\Atividade1\obj\Debug\net8.0\Atividade1.pdb
 C:\Users\Gustavo\Desktop\ESCOLA\Atividades-Csharp-parte2\Atividade1\obj\Debug\net8.0\Atividade1.genruntimeconfig.cache
 C:\Users\Gustavo\Desktop\ESCOLA\Atividades-Csharp-parte2\Atividade1\obj\Debug\net8.0\ref\Atividade1.dll
+C:\Users\Gustavo\Desktop\ESCOLA\Atividades-Csharp-parte2\Atividade1\obj\Debug\net8.0\Atividade1.sourcelink.json
